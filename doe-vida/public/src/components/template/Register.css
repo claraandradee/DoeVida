@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+div.parteDeCima{
+    height: 286px;
+    width: 1582px;
+    background-color: #640000;
+}
+
+div.base{
+    background-color: #640000;
+    font-family: 'Manrope', sans-serif;
+    width: 1582px;
+}
+
+div.criar {
+    background-color: transparent;
+    color: #E6E6E6;
+    text-align: left;
+    width: 1372px;
+    height: 400px;
+    padding-left: 210px;
+    padding-top: 34px;
+    padding-bottom: 152px;
+    margin-top: -171px;
+}
+
+img.imagemLogin {
+    width: 400px;
+    height: 400px;
+    margin-top: -43px;
+    margin-left: -32px;
+    margin-right: -478px;
+    background-color: transparent;
+}
+
+h1.tituloCriar{
+    font-size: 50px;
+    background-color: transparent;
+}
+
+h2{
+    padding-left: 70px;
+    background-color: transparent;
+    color: #E6E6E6;
+}
+
+div.logar {
+    background-color: white;
+    color: black;
+    width: 370px;
+    height: 780px;
+    padding-left: 100px;
+    margin-left: 790px;
+    margin-top: -588px;
+    border-radius: 42px;
+}
+
+h1.tituloLogin {
+    padding: 100px;
+    margin-left: -157px;
+    margin-bottom: 122px;
+    background-color: white;
+    border-radius: 212px;
+    width: 175px;
+}
+
+button.btnEntrar{
+    font-family: 'Manrope', sans-serif;
+    border: 3px solid #640000;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+button.btnEntrar:hover{
+    background-color: #640000;
+    color: white;
+}
+
+button.btnCadastrar {
+    font-family: 'Manrope', sans-serif;
+    background-color: #640000;
+    border: #640000;
+    color: white;
+    padding: 8px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-left: -53px;
+    margin-top: 39px;
+    box-shadow: 3px 3px 10px black;
+}
+
+.inputText {
+    width: 400px;
+    height: 50px;
+    display: block;
+    padding-left: 10px;
+    margin-bottom: 31px;
+    margin-left: -70px;
+    border-radius: 20px;
+    border: 10px 10px #1C1C1C;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    background-color: #E6E6E6;
+}
+
+select, option {
+    width: 60px;
+    height: 50px;
+    display: block;
+    padding-left: 10px;
+    border-radius: 20px;
+    border: 10px 10px #1C1C1C;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    background-color: #E6E6E6;
+}
+
+div.parteE{
+    background-color: transparent;
+}

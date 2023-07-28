@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+h1.for{
+    background-color: #8B0000;
+    font-family: 'Manrope', sans-serif;
+    font-size: 38px;
+}
+
+div.criar{
+    background-image: none;
+    background-color: #8B0000;
+}
+
+div.base{
+    background-color: #8B0000;
+}
+
+button.botao{
+    background-color: #8B0000;
+    padding: 20px;
+    margin: 50px;
+}

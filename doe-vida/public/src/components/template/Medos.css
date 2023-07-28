@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+div.geral{
+    background-image: linear-gradient(black, black, black, #353535, #353535, #FFFFFF, #FFFFFF, white,  white, white, #640000, #640000, #640000);    
+    height: 1600px;
+    padding-top: 60px;
+}
+
+section{
+    text-align: center;
+    margin: 50px;
+    margin-left: 570px;
+}
+
+section.medo{
+    background-image: linear-gradient(black, black, #353535);   
+}
+
+h1.medos{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+p.combater{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+img.card{
+    width: 350px;
+    height: 500px;
+    margin: 20px;
+    background-color: white;
+    padding: 5px;
+    display: inline-block;
+}
+
+h1.criterios{
+    margin-top: 200px;
+    background-color: white;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    margin-top: 11px;
+}
+
+p.doar{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    background-color: white;
+}
+
+p.lista{
+    background-color: white;
+    font-family: 'Manrope', sans-serif;
+    margin: 5px;
+    text-align: justify;
+    margin-left: 480px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+h1.beneficios{
+    margin-top: 200px;
+    background-color: #640000;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    margin-top: 186px;
+}
+
+p.apos{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    background-color: #640000;
+    margin-top: -1px;
+}

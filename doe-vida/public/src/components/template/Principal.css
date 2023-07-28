@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #640000;
+}
+
+
+div.dados{
+    background-color: black;
+    height: 600px;
+}
+
+div.fundo{
+    width: 1230px;
+    height: 1985px;
+    background-color: #e6e6e6;
+    margin-left: 185px;
+    margin-top: -20px;
+}
+
+div.card{
+    width: 300px;
+    height: 300px;
+    background-color: #8B0000;
+    margin: 40px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+img.imagemHemo{
+    width: 1583px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: -185px;
+}
+
+img.imagemCarrossel{
+    width: 1758px;
+    height: 500px;
+    margin-left: -175px;
+}
+
+img.imagemCard{
+    border-radius: 20px;
+}
+
+a{
+    border-radius: 20px;
+}
+
+img.estoque{
+    width: 1074px;
+    height: 459px;
+    margin-top: 85px;
+}
+
+div.rodape{
+    height: 400px;
+    width: 1582px;
+    background-color: #8B0000;
+}
+
+img.imagemRodape{
+    width: 300px;
+    height: 300px;
+    margin-top: 61px;
+    margin-left: -1159px;
+}

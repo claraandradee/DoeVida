@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+h1.titulo {
+    font-family: 'Manrope', sans-serif;
+    background-color: #8B0000;
+    text-align: center;
+    margin-left: -183px;
+    font-weight: 1000;
+    margin-top: -98px;
+    margin-bottom: 100px;
+    font-size: 48px;
+}
+
+div.criar {
+    background-image: linear-gradient(#8B0000, black, black);
+    height: 683px;
+}
+
+div.parteDeCima {
+    height: 286px;
+    width: 1582px;
+    background-color: #8B0000;
+}
+
+div.base {
+    background-color: black;
+    font-family: 'Manrope', sans-serif;
+    width: 1582px;
+}
+
+img.imagem {
+    text-align: center;
+    margin-left: 434px;
+    margin-bottom: 50px;
+}
+
+h1.nome {
+    font-family: 'Manrope', sans-serif;
+    background-color: black;
+    text-align: center;
+    width: 723px;
+    margin-left: 213px;
+    margin-top: 70px;
+}
+
+h1.tipo{
+    font-family: 'Manrope', sans-serif;
+    background-color: black;
+    text-align: center;
+    width: 723px;
+    margin-left: 213px;
+}
+
+h1.data{
+    font-family: 'Manrope', sans-serif;
+    background-color: black;
+    text-align: center;
+    width: 723px;
+    margin-left: 213px;
+}
+
+div.editar{
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+}

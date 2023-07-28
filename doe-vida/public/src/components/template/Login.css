@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div.parteDeCima{
+    height: 270px;
+    background-color: #8B0000;
+}
+
+div.base{
+    background-color: #8B0000;
+    height: 727px;
+    width: 1550px;
+    font-family: 'Manrope', sans-serif;
+}
+
+div.criar {
+    background-color: black;
+    color: #E6E6E6;
+    text-align: left;
+    width: 1550px;
+    height: 400px;
+    padding-left: 210px;
+    padding-top: 34px;
+    padding-bottom: 152px;
+    margin-top: -120px;
+}
+
+img.imagemLogin {
+    width: 400px;
+    height: 400px;
+    margin-top: -43px;
+    margin-left: -32px;
+    margin-right: -478px;
+}
+
+h1.tituloCriar{
+    font-size: 50px;
+}
+
+h2{
+    padding-left: 70px;
+}
+
+div.logar {
+    background-color: white;
+    color: black;
+    width: 370px;
+    height: 780px;
+    padding-left: 100px;
+    margin-left: 811px;
+    margin-top: -588px;
+    border-radius: 42px;
+}
+h1.tituloLogin {
+    padding: 100px;
+    margin-left: -35px;
+    margin-bottom: 122px;
+}
+
+button.btnEntrar{
+    font-family: 'Manrope', sans-serif;
+    border: 3px solid #640000;
+    background-color: black;
+    color: white;
+    padding: 8px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 20px;
+    width: 149px;
+}
+
+button.btnEntrar:hover{
+    background-color: #640000;
+    color: white;
+}
+
+button.btnCadastrar {
+    font-family: 'Manrope', sans-serif;
+    background-color: #640000;
+    border: #640000;
+    color: white;
+    padding: 8px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-left: -52px;
+    margin-top: 39px;
+    box-shadow: 3px 3px 10px black;
+}
+
+#dadosEmail {
+    width: 400px;
+    height: 50px;
+    display: block;
+    padding-left: 10px;
+    margin-bottom: 31px;
+    margin-left: -70px;
+    border-radius: 20px;
+    border: 10px 10px #1C1C1C;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    background-color: #E6E6E6;
+}
+
+#dadosSenha {
+    width: 400px;
+    height: 50px;
+    padding-left: 10px;
+    display: block;
+    margin-bottom: 31px;
+    margin-left: -70px;
+    border-radius: 20px;
+    border: 10px 10px #1C1C1C;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 900;
+    background-color: #E6E6E6;
+}
