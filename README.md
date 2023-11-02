@@ -1,8 +1,8 @@
-# Projeto DoeVida - Plataforma de Doação de Sangue
+# Projeto DoeVida - Plataforma de Doação de Sangue 🌟🩸
 
 O DoeVida é um projeto de código aberto hospedado no GitHub, com o propósito de incentivar e facilitar a doação de sangue. Desenvolvido com tecnologias web - HTML, CSS e JavaScript - o site oferece uma plataforma intuitiva e amigável para conectar doadores e receptores.
 
-# Objetivo:
+## Objetivo:
 O principal objetivo do DoeVida é promover a doação de sangue e simplificar o processo para doadores e aqueles que necessitam de transfusões sanguíneas. A plataforma visa conscientizar, informar e incentivar as pessoas a contribuir com essa causa crucial, salvando vidas e ampliando o acesso ao sangue para quem precisa.
 
 # Funcionalidades Principais:
